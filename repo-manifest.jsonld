@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kornia/kornia/commit/2d8b49be0308d1ccdc404b32a9fc72cbc8ea5c40",
       "git:hexsha": "2d8b49be0308d1ccdc404b32a9fc72cbc8ea5c40",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T04:48:14.853512+00:00"
     },
     {
       "@id": "https://repolex.ai/r/kornia/kornia/commit/eee5da67c92125acf70a4076608709e0c13ce39d",
